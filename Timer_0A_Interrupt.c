@@ -15,7 +15,7 @@
  * to view the Vector Number, Interrupt Request (IRQ) Number, and the Vector Address
  * for each peripheral.
  *
- * @author Aaron Nanas
+ * 
  */
 
 #include "Timer_0A_Interrupt.h"
