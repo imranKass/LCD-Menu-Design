@@ -15,7 +15,7 @@
  * to view the Vector Number, Interrupt Request (IRQ) Number, and the Vector Address
  * for each peripheral.
  *
- * @author Aaron Nanas
+ * 
  */
  
 #include "TM4C123GH6PM.h"
