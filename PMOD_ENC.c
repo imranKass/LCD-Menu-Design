@@ -19,7 +19,7 @@
  * @note For more information regarding the PMOD ENC module, refer to the Reference Manual
  * Link: https://reference.digilentinc.com/reference/pmod/pmodenc/reference-manual
  *
- * @author Aaron Nanas
+ * 
  *
  */
  
