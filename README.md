@@ -9,4 +9,8 @@ https://mail.google.com/mail/u/0?ui=2&ik=6984b16557&attid=0.1&permmsgid=msg-f:18
 
 
 
+In this project I utilized the LCD that is used in 4 bit configuration and learned how to send commands to create custom characters, and how to display characters. I then added a PMOD ENC module, which contains a rotary shift encoder to navigate a menu on the 16x2 Liquid Crystal display (LCD) on the EduBase board.
+
+
+
 
